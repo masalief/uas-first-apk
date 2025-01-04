@@ -16,3 +16,8 @@ Menu Utama:
 Pilih opsi (1-4): 1
 
 c. User dapat menjalankan semua Menu Utama dengan normal tanpa adanya error program/aplikasi.
+
+
+Note : Development atau perubahan aplikasi ini bisa terjadi sewaktu-waktu.
+Thanks,
+Mas Alief
